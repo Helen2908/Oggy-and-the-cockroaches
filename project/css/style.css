@@ -1,0 +1,29 @@
+.nav-wrapper{
+	background: #00BFFF
+}
+
+.page-footer{
+	background: #00BFFF
+}
+
+.slider2 {
+	width: 300px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	overflow-y: hidden;
+	margin: 0 auto;
+}
+
+.text h1 {
+	font-family: 'Rubik Puddles', cursive;
+}
+
+.text p {
+	font-family: 'Rubik Puddles', cursive;
+}
+
+.hero-item {
+	display: flex;
+	flex-direction: column;
+}
